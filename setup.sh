@@ -125,7 +125,7 @@ mkdir -p /var/lib/julak >/dev/null 2>&1
 echo "IP=" >> /var/lib/julak/ipvps.conf
 
 echo ""
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/tools.sh;chmod +x tools.sh;./tools.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/tools.sh;chmod +x tools.sh;./tools.sh
 rm tools.sh
 clear
 yellow "Add Domain for vmess/vless/trojan dll"
