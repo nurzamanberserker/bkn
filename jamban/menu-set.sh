@@ -32,7 +32,7 @@ case $opt in
 7) clear ; restart ; exit ;;
 8) clear ; nano /etc/issue.net ; exit ;;
 9) clear ; bw ; exit ;;
-10) clear ; rm -rf udp-custom.sh && wget -q https://sc2.scvps.biz.id/rabah/udp-custom.sh &&  chmod +x udp-custom.sh && ./udp-custom.sh ; exit ;;
+10) clear ; rm -rf udp-custom.sh && wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/udp-custom.sh &&  chmod +x udp-custom.sh && ./udp-custom.sh ; exit ;;
 0) clear ; menu ; exit ;;
 x) exit ;;
 *) echo -e "" ; echo "Anda salah tekan" ; sleep 1 ; menu-set ;;

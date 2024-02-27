@@ -1,12 +1,12 @@
 #!/bin/bash
 # //====================================================
 # //	System Request:Debian 9+/Ubuntu 18.04+/20+
-# //	Author:	Julak Bantur
+# //	Author:	ABROR
 # //	Dscription: Xray Menu Management
-# //	email: putrameratus2@gmail.com
-# //  telegram: https://t.me/Cibut2d
+# //	email: khoirulabrorr19@gmail.com
+# //  telegram: https://t.me/entahlahteuing
 # //====================================================
-# // font color configuration | JULAK BANTUR AUTOSCRIPT
+# // font color configuration | ABROR AUTOSCRIPT
 ###########- COLOR CODE -##############
 NC="\e[0m"
 RED="\033[0;31m"
@@ -44,7 +44,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget "https://raw.githubusercontent.com/galat41/bkn/main/purut/menu.zip"
+    wget "https://raw.githubusercontent.com/nurzamanberserker/bkn/main/purut/menu.zip"
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/bin

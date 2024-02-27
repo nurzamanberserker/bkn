@@ -1,7 +1,7 @@
 #!/bin/bash
 # Welcome Information
 # Edition : Stable Edition V1.0
-# Author  : JULAK BANTUR
+# Author  : ABROR
 # (C) Copyright 2023-2024 By JULAK BANTUR
 # =========================================
 MYIP=$(curl -sS ifconfig.me)

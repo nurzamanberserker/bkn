@@ -33,10 +33,10 @@
 <br>
 
 # Example
-![Setting1](https://raw.githubusercontent.com/galat41/bkn/main/warik/cloudflare1.png)
-![Setting2](https://raw.githubusercontent.com/galat41/bkn/main/warik/cloudflare2.png)
-![Setting3](https://raw.githubusercontent.com/galat41/bkn/main/warik/cloudflare3.png)
-![Setting4](https://raw.githubusercontent.com/galat41/bkn/main/warik/cloudflare4.png)
+![Setting1](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/cloudflare1.png)
+![Setting2](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/cloudflare2.png)
+![Setting3](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/cloudflare3.png)
+![Setting4](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/cloudflare4.png)
 
 ## Service & Port:
 <br>
@@ -70,10 +70,10 @@
 
   
 # Menu
-![Service Status](https://raw.githubusercontent.com/galat41/bkn/main/warik/julak.jpg)
+![Service Status](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/julak.jpg)
 
 # Service Status
-![Service Status](https://raw.githubusercontent.com/galat41/bkn/main/warik/service.jpg)
+![Service Status](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/service.jpg)
 
 # [Step Install]
 - Step 1 for (debian) please update first
@@ -82,7 +82,7 @@ apt update && apt upgrade -y && reboot
 ```
 - Step 2 for (ubuntu) directly install
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/galat41/bkn/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/nurzamanberserker/bkn/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
 
 # Telegram
@@ -90,7 +90,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 [![Telegram-Channel](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/ppn_store/)
 
 # Donate
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/galat41/bkn/main/warik/qris.png)
+[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/qris.png)
 
 # ATTENTION (MUST READ) CAREFULLY
 - PROHIBITED FOR SALE BECAUSE I GET FREE FROM THE INTERNET

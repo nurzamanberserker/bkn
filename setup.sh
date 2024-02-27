@@ -150,7 +150,7 @@ echo -e "$green      Install SSH / WS               $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/waluh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/waluh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 clear
 #Instal Xray
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
@@ -158,30 +158,30 @@ echo -e "$green          Install XRAY              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/janda/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/janda/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install SSHWS              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/baku/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/baku/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install SSH UDP              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://sc2.scvps.biz.id/rabah/udp-custom.sh &&  chmod +x udp-custom.sh && ./udp-custom.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/udp-custom.sh &&  chmod +x udp-custom.sh && ./udp-custom.sh
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/warik/julak && chmod +x julak && ./julak
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/warik/julak && chmod +x julak && ./julak
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install Janda Pirang              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/baku/ins-menu.sh && chmod +x ins-menu.sh && ./ins-menu.sh
+wget -q https://raw.githubusercontent.com/nurzamanberserker/bkn/main/baku/ins-menu.sh && chmod +x ins-menu.sh && ./ins-menu.sh
 clear
 cat> /root/.profile << END
 # ~/.profile: executed by Bourne-compatible login shells.
@@ -219,7 +219,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ ZJHUNOT STORE ]-===================="
+echo "=====================-[ ABROR STORE ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -259,7 +259,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By JULAK BANTUR ]-==============="
+echo "===============-[ Script Created By ABROR STORE ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt

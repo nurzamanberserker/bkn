@@ -1,8 +1,8 @@
 #!/bin/bash
 # Welcome Information
 # Edition : Stable Edition V1.0
-# Author  : JULAK BANTUR
-# (C) Copyright 2023-2024 By JULAK BANTUR
+# Author  : ABROR
+# (C) Copyright 2023-2024 By ABROR
 # =========================================
 # Color
 RED='\033[0;31m'
@@ -56,4 +56,4 @@ echo "============================"
 echo "Username : $user"
 echo "Expired  : $exp4"
 echo "=========================="
-echo "Script By JULAK BANTUR"
+echo "Script By ABROR"
